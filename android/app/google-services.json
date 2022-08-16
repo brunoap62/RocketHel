@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "427531049035",
+    "project_id": "my-project-1557463205757",
+    "storage_bucket": "my-project-1557463205757.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427531049035:android:1a5611764674aa9c84d5ce",
+        "android_client_info": {
+          "package_name": "com.magentech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427531049035-72218ibcss9a0c1snh7p2a6jr5t3rfov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-q16Ybj0R-4RuQfCymZRrdUXMqHCvhqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427531049035-72218ibcss9a0c1snh7p2a6jr5t3rfov.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "427531049035-438j0rg5gjdengeihb15u6rqm2260p5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.magentech"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
